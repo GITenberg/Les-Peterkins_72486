@@ -1,0 +1,55 @@
+_repo: Les-Peterkins_72486
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gaïl, François de
+    aliases:
+    - Gail, Francois de
+    - De Gaïl, François
+    birthdate: 1874
+    deathdate: 1947
+    gutenberg_agent_id: '4609'
+    url: http://www.gutenberg.org/2009/agents/4609
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: https://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2023-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72486'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k9768353t
+pgterms:marc905: 20230402083358twain
+pgterms:marc906: '1910'
+pgterms:marc907: FR
+production_note: Véronique Le Bris, Laurent Vogel and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bMercure de France, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American fiction -- Translations into French'
+- !lcsh 'Short stories, American -- Translations into French'
+- !lcsh 'Humorous stories, American -- Translations into French'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Les Peterkins -- Perce, mon ami, perce -- Pourquoi j'étranglai ma
+  conscience -- Les amours d'Alonzo Fitz Clarence et de Rosannah Ethelton -- Le chat
+  de Dick Baker -- La fête dispendieuse du Colonel Moses Grice -- Sur les bebes --
+  Considerations sur le temps -- Un sauteur Mexicain pur-sang -- L'homme le plus méchant
+  et le plus stupide de Turquie -- Quelques héros d'occasion -- A la cure d'appétit
+  -- Extrait du Times de Londres en 1904 -- Nos diplomates -- En voyageant avec un
+  réformateur -- Un veinard.
+title: Les Peterkins
+url: http://www.gutenberg.org/ebooks/72486
